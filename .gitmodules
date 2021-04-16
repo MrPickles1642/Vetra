@@ -1,0 +1,3 @@
+[submodule "Vetra/vendor/spdlog"]
+	path = Vetra/vendor/spdlog
+	url = https://github.com/gabime/spdlog

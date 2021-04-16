@@ -27,9 +27,15 @@
     <ClInclude Include="src\Vetra\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Vetra\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Vetra\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Vetra\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
